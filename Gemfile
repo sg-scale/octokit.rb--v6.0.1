@@ -20,7 +20,7 @@ group :test do
     gem 'rexml', '>= 3.2.4'
   end
   gem 'json', '>= 2.3.0', platforms: [:jruby]
-  gem 'jwt', '~> 2.2', '>= 2.2.1'
+  gem 'jwt', '~> 3.3'
   gem 'mime-types', '~> 3.3', '>= 3.3.1'
   gem 'multi_json', '~> 1.14', '>= 1.14.1'
   gem 'netrc', '~> 0.11.0'
